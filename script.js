@@ -3,7 +3,7 @@ const elhours = document.getElementById('hours')
 const elminutes = document.getElementById('minutes')
 const elseconds = document.getElementById('seconds')
 
-const flight = " 21 jan 2024 18:00:00"
+const flight = " 26 feb 2024 6:50:00"
 
 function countdown() {
     const flyDate = new Date(flight)
